@@ -1,5 +1,5 @@
 #### Zoomcamp ဆိုတာ ဘာလဲ?
-- COVID ကာလအတွင်း Online Course တွေ ထွက်လာရာကနေ Zoom အသုံးပြုမှု ကို ကိုယ်စားပြုပီး ZoomCamp ဆိုတာကို ၂၀၂၁ ခုနှစ် မှာ မိတ်ဆက်လာတာ ဖြစ်ပါတယ်။ အမှတ်မမှားခဲ့ရင်  ပထမဆုံး စတင်ခဲ့တာက   Machine Learning Zoomcamp ထင်ပါတယ်။ Zoom application ပေါ်မှာ Machine Learning ပညာရပ်ကို အခမဲ့ သင်ကြားပေးတာ ဖြစ်ပါတယ်။ Data Engineering ဘာသာရပ်ကို အခမဲ့ သင်ပေးတဲ့ Zoomcamp ကတော့ ၂၀၂၂ ခုနှစ် မှာ စတင်ခဲ့တာ ဖြစ်ပါတယ်။
+- COVID ကာလအတွင်း Online Course တွေ ထွက်လာရာကနေ Zoom အသုံးပြုမှု ကို ကိုယ်စားပြုပီး ZoomCamp ဆိုတာကို DataTalks Club က ဦးဆောင်ပြီး ၂၀၂၁ ခုနှစ် မှာ မိတ်ဆက်လာတာ ဖြစ်ပါတယ်။ အမှတ်မမှားခဲ့ရင်  ပထမဆုံး စတင်ခဲ့တာက   Machine Learning Zoomcamp ထင်ပါတယ်။ Zoom application ပေါ်မှာ Machine Learning ပညာရပ်ကို အခမဲ့ သင်ကြားပေးတာ ဖြစ်ပါတယ်။ Data Engineering ဘာသာရပ်ကို အခမဲ့ သင်ပေးတဲ့ Zoomcamp ကတော့ ၂၀၂၂ ခုနှစ် မှာ စတင်ခဲ့တာ ဖြစ်ပါတယ်။
 
 #### Data Engineering Zoomcamp က ဘယ်သူတွေအတွက် ရည်ရွယ်သလဲ?
 - DE Zoomcamp ကို မတက်ရောက်မှီ ကြိုတင်လိုအပ်ချက်တွေအနေနဲ့
