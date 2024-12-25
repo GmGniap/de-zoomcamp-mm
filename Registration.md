@@ -7,4 +7,4 @@
 ဒါအပြင် တစ်ယောက်ထဲ စာလုပ်ရမှာ ပျင်းနိုင်တဲ့ သူများအတွက်လဲ "စာလုပ်ကြမယ်" ဆိုတဲ့ ရက်တစ်ရက် ကို အပတ်စဥ် စီစဥ်ပေးပါမယ်။ ဒီရက်ကတော့ လူတိုင်း မဖြစ်မနေ join စရာ မလိုပေမယ့် အားလုံးတစုတစည်း ပျော်ပျော်ပါးပါး နဲ့ စာအတူစုလုပ်ဖြစ်ရင် ပိုခရီးတွင်မယ်လို့ မျှော်လင့်ပါတယ်။ ဒါဆိုတော့ အပတ်စဥ် - ၂ ရက်တာ အချိန်ပေးနိုင်မယ်ဆိုရင် Study Group အစီအစဥ်မှာ ပါဝင်ပေးဖို့ ဖိတ်ခေါ်နိုင်ပါတယ်။ အကယ်ရွေ့ ကိုယ့်အချိန်အခက်အခဲတွေကြောင့် မိမိဘာသာ သီးခြား self-study လေ့လာဖို့အတွက် DataTalks Club ရဲ့ registration မှာ တိုက်ရိုက်ပါဝင်ပြီး project တွေ တင်နိုင်တာနဲ့ certificate ရနိုင်ပါတယ်။ 
 
 Study Group အတွက် စုစုပေါင်း အများဆုံး ပါဝင်သူ ၅၀ ခန့်သာ ရည်မှန်းထားတာကြောင့် အကယ်ရွေ့ စိတ်ဝင်စားခဲ့မယ် ဆိုရင် ဒီ MM Data Engineering Study Group - Registration ကို ဖြည့်ပေးစေချင်ပါတယ်။ 
-- [Form Link](⁦[https://forms.gle/7JJ1FpPKBLvnvuTW9](https://forms.gle/7JJ1FpPKBLvnvuTW9?fbclid=IwZXh0bgNhZW0CMTAAAR09ipCOaI1RTfrKYATb-iahOVjjYusCnWaPkHXIQF4vSrzDc3PmUb3c5Bs_aem_3uUmf02oRud2t1lcBNQimw))
+- Form Link - ⁦[https://forms.gle/caQddvXSEWphnEnc7](https://forms.gle/caQddvXSEWphnEnc7?fbclid=IwZXh0bgNhZW0CMTAAAR0kR2TU47Mb8ztFWVXrMMPHR7m7ULmho8WgMkQkFjC52ns4CyQf14tU1U4_aem_HVl9yoirZAtjipqwzVWUBQ)⁩
