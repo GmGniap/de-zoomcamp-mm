@@ -10,7 +10,9 @@
 
 #### Course သင်ရိုး
 - DE Zoomcamp ရဲ့ သင်ရိုးက တစ်နှစ်နဲ့တစ်နှစ် အနည်းငယ် ကွဲပြားပေမယ့် ကျောရိုးကတော့ ဆင်တူတယ်လို့ ပြောနိုင်ပါတယ်။
-- ဒီနှစ်အတွက် ထုတ်ပြန်ထားတဲ့ Curriculum ကတော့ အောက်ပါ ပုံအတိုင်း ပါဝင်မှာ ဖြစ်ပါတယ်။ ![curriculum](https://raw.githubusercontent.com/GmGniap/de-zoomcamp-mm/main/zImages/Pasted%20image%2020241224233222.png)
+- ဒီနှစ်အတွက် ထုတ်ပြန်ထားတဲ့ Curriculum ကတော့ အောက်ပါ ပုံအတိုင်း ပါဝင်မှာ ဖြစ်ပါတယ်။ 
+<img src= "https://raw.githubusercontent.com/GmGniap/de-zoomcamp-mm/main/zImages/Pasted%20image%2020241224233222.png" alt="2025_curriculum" width=650 height=270
+/>
 
 #### Course အချိန်ကာလ
 - ယခု 2025 DE Zoomcamp ရဲ့ timeline ကိုတော့ [README](https://data-dev-mm.gitbook.io/de-zoomcamp-myanmar/readme)  မှာ ကြည့်ရှုနိုင်ပါတယ်။ စုစုပေါင်း အချိန်ကာလ ၃ လ ခန့် ကြာမြင့်မှာ ဖြစ်ပါတယ်။
