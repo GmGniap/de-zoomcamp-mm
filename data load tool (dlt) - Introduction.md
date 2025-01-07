@@ -19,10 +19,43 @@ Data Field မှာ အလုပ်လုပ်နေတဲ့သူတွေ�
 - Link
 - EuroPython 2024 Presentation : "Pandas to Production" - Youtube
 
+### dlt Installation
+
+`pip install dlt` 
 ## dlt အခြေခံ concepts
 
 `dlt` မှာ အခြေခံအားဖြင့် အောက်ပါ concepts တွေ ကို နားလည်ဖို့ လိုအပ်ပါတယ်။
 - Source
 - Resource
 - Pipeline
+- Destination
+- Dataset
+<img title="dlt-concept by Cruxdata" alt="Credit to Cruxdata" src="https://img.plasmic.app/img-optimizer/v1/img?src=bab69d070db436dbd311dac286ed3eb0.png&f=webp&q=75" >
+
+- Source ဆိုတာက ဆွဲထုတ်ယူမယ့် ဒေတာတွေအားလုံးကို ခြုံငုံတဲ့ Logical data group ဖြစ်ပါတယ်။ resources တွေကို ပေါင်းလိုက်ပြီး Source အနေနဲ့ အသုံးပြုတာပါ။
+- Resource ဆိုတာကကျ database table တစ်ခုကနေ ဖြစ်ဖြစ် ၊ API endpoint တစ်ခုကနေ ဖြစ်ဖြစ် သီးခြား ဆွဲထုတ်ယူတဲ့ အဆင့် ကို ဆိုလိုတာပါ။
+- Transformer ကကျတော့ ဒေတာကို သတ်မှတ်ထားတဲ့ destination ထဲ မထည့်ခင်မှာ ပြောင်းလဲလိုတာတွေ ပြောင်းလဲတဲ့ အဆင့် ပါ။
+- Destination ကကျတော့ နောက်ဆုံးမှာ ဒေတာတွေကို အရောက်ပို့ရမယ့် နေရာ ပါပဲ။
+- Pipeline ကတော့ ဒီ source / resource သတ်မှတ်တာတွေ ၊ transformation ပြောင်းလဲတာတွေ ၊ destination ထဲ ထည့်တာတွေ အားလုံးကို စုပေါင်းထားတဲ့ collection ကို ဆိုလိုပါတယ်။
+
+
+
+### Configuration & Secrets in dlt
+
+`dlt` pipeline တွေမှာ များသောအားဖြင့် configurations နဲ့ credentials တွေ အသုံးပြုဖို့ လိုအပ်ပါတယ်။ ဒီအတွက်ကိုတော့ အောက်ပါ နည်းလမ်းတွေ အတိုင်း set up ပြုလုပ်လို့ ရပါတယ်။
+
+1. Environment variables များကို အသုံးပြုခြင်း။ (production တွင် အသုံးပြုသင့်သည်)
+2. `dlt` configuration files တွေ ဖြစ်တဲ့ `secrets.toml` နဲ့ `config.toml` တို့ကို အသုံးပြုခြင်း။ (local dev တွင် အသုံးပြုသင့်သည်)
+3. Key managers နဲ့ Vaults များကို အသုံးပြုခြင်း။
+
+ကိုယ်ကသာ naming conventions ကို မှန်မှန်ကန်ကန် ပေးထားမယ်ဆိုရင် `dlt` အနေနဲ့ configuration settings နဲ့ secrets တွေကို အလိုအလျောက် ရယူပါလိမ့်မယ်။ ပြီးတော့ code ထဲက လိုအပ်တဲ့ နေရာတွေကို values တွေ အဖြစ် ထည့်သွင်းသွားပါမှာ။
+
+`dlt.secrets.value` ကို အသုံးပြုပြီးတော့လဲ resources နဲ့ sources တွေအတွက် credentials သတ်မှတ်ပေးလို့ ရပါတယ်။ (Variable Assign ချတဲ့ ပုံစံမျိုးပါ)။ ဒီမှာ အရေးကြီးတာ တစ်ခုက အတတ်နိုင်ဆုံး configurations တွေ credentials တွေ အားလုံးကို `dlt.secrets` (တနည်းအားဖြင့် `secrets.toml`) ထဲမှာ ထည့်သွင်းရပါမယ်။ `dlt.config` (တနည်းအားဖြင့် `config.toml`)မှာ credentials တွေ ထည့်သွင်းလို့ ရမှာ မဟုတ်ပါဘူး။ `dlt` အနေနဲ့က အဲဒီ file ကနေ credentials တွေ ဖတ်မှာ မဟုတ်လို့ပါ။ 
+
+
+### References - ကိုးကားစာရင်း
+- dlt Introduction by Cruxdata.co - [Link](https://cruxdata.co/blog/data_load_tool_dlt_introduction)
+- 
+
+
 
